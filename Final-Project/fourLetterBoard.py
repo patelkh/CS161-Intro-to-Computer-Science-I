@@ -1,7 +1,4 @@
-# Author: Khushboo Patel
-# Description: 2 player FourLetterBoard game
-# Implementation decisions: Store coordinates in a list (instead of tuples as tuples cannot be replaced with strings when
-# updating the game board tiles from coordinates to letters A-D).
+# Author: Kay Patel
 
 
 class FourLetterBoard:
